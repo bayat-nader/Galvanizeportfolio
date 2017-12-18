@@ -1,0 +1,17 @@
+h1 {color: #b2b2e4; font-family: 'Bungee', cursive; text-shadow: 1px 1px 1px #ccc}
+
+h2 {text-decoration: underline; color: #9cd29c}
+
+body{background-color: black}
+
+h3 {color: white}
+
+#p01 {color: orange; font-weight: 700}
+
+#p02 {color: #FF5722; font-weight: 700; text-decoration: underline}
+
+h5 {color: #4c4b4b}
+
+p {color: white; text-indent: 0 px}
+
+ul {list-style-position: inside; padding-left:0}
